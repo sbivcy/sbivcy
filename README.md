@@ -1,6 +1,10 @@
 # Sbivcy
 
 ## Repos:
+| Repo                                               | Language | Programming Languages | Date                    | Contents 
+|----------------------------------------------------|----------|-----------------------|-------------------------|-------------
+|[sbivcy](https://github.com/sbivcy/sbivcy)          | English  |                       | 14/05/2022 - 14/05/2022 | profile README.md
+|[zsv-pruzkum](https://github.com/sbivcy/zsv-pruzkum)| Czech    | Python                | 05/05/2022 - 14/05/2022 | scripts used to analyze data for a school project
 
 
 ### Stats:
